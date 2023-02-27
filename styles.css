@@ -1,1 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+body {
+    background-image: url(denim.png);
+}
+
+
+.container{
+    background: white
+    max-width:900px;
+    margin: 0 auto;
+    padding: 20px 40px
+
+}
+
+.link{
+    color:rgb(176, 133, 216);
+    font-weight: bold;
+    font-size: 18px;
+    margin-right:10px;
+    background:rgb(255, 255, 255)
+    padding: 10px;
+text-decoration: none;
+
+}
+
+p {
+    line-height: 140%;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h1{
+    width: 40%;
+    display: inline-block;
+    margin: 20px;
+} 
+
+nav{
+    width: 68%;
+    display: inline-block;
+} 
+
+aside{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing:border-box;
+
+
+}
+
+img{
+    float:left;
+    width:50%
+    vertical-alight: left:
+}
